@@ -77,6 +77,7 @@ int main(void) {
     return 0;
 }
 ```
+You can find a premade main file in message.txt and the GCC command to compile it and use it with the library in command_gcc.txt.
 
 ### Expected Output
 
