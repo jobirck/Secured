@@ -1,0 +1,1 @@
+gcc -g -Wall -Werror -o main src/main.c -L. -lhashtable -Llib -lmy -Iinclude
